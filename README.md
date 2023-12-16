@@ -29,8 +29,6 @@ Developed a decentralized web application that include:
 **Quiz Result storing on IPFS Network**
 ![ExamifyResult](https://github.com/aniketdiwate2208/DQuizApp/assets/89931422/d8a0fc76-57db-430e-9726-7a2d51bb9aa3)
 
-**
-
 
 
 
